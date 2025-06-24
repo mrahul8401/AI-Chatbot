@@ -1,0 +1,19 @@
+# Core ML & Data Libraries
+numpy
+pandas
+langchain
+langchain_community
+langchain_huggingface
+faiss-cpu
+pypdf
+streamlit
+langchain_core
+huggingface_hub
+python-dotenv
+sentence-transformers
+pydantic
+tqdm
+torch
+streamlit-lottie
+
+
